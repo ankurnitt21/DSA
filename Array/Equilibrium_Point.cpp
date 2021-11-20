@@ -1,6 +1,7 @@
 /*
 * Equilibrium Point in an array is a position such that the sum of 
 * elements before it is equal to the sum of elements after it.
+* https://practice.geeksforgeeks.org/problems/equilibrium-point/0
 */
 
 #include<bits/stdc++.h>
